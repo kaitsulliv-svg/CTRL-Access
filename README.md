@@ -14,8 +14,8 @@ Funded by a **$3,000 micro-grant from Makers Making Change (MMC)**.
 |---|---|
 | DIYode Community Workshop | https://diyode.com |
 | Makers Making Change | https://www.makersmakingchange.com |
-| MMC Device Library | https://www.makersmakingchange.com/s/product |
-| MMC Reporting Portal | https://www.makersmakingchange.com/s/clubs-that-care-portal |
+| MMC Device Library | https://www.makersmakingchange.com/assistive-devices |
+| MMC Reporting Portal | https://www.makersmakingchange.com/clubs-that-care |
 | GuelphToday Feature | https://www.guelphtoday.com/helpers/new-diyode-initiative-to-3d-print-assistive-devices-for-local-community-groups-12490661 |
 | Contact | kait@diyode.com |
 
